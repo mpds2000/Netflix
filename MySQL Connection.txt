@@ -1,0 +1,1 @@
+Details: "An error happened while reading data from the provider: 'Character set 'utf8mb3' is not supported by .Net Framework.'"
